@@ -1,0 +1,1 @@
+{"name":"aushadhi-pharma-wholesale-app","version":"1.0.0","private":true,"description":"Aushadhi Pharma wholesale ordering web app starter","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=20"}}
